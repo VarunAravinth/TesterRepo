@@ -7,3 +7,6 @@ def mul(x,y):
 
 def subtract(x,y):
     return x-y
+
+def expo(x,y):
+    return x^y
