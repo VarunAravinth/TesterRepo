@@ -6,3 +6,6 @@ def mul(x,y):
 
 def subtract(x,y):
     return x-y
+
+def strr(x,y):
+    return str(x) + str(y)
